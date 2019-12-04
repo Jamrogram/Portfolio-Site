@@ -1,4 +1,11 @@
  body{
     background-color: #fafad2;
     align-content: flex-end;
+    text-align: right;
  }
+.sidenav{
+    background-color: #ff9429;
+    align-content: left;
+    border: #ffffff;
+    text-align: center;
+}
