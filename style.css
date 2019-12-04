@@ -9,8 +9,6 @@
     position: fixed;
     z-index: 1;
     background-color: #ff9429;
-    align-content: left;
     border: #ffffff;
-    text-align: center;
     padding-top: 60px;
 }
