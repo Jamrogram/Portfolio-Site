@@ -33,8 +33,7 @@ background-color: #fafad2;
   width: 6em;
   height: auto;
   margin: 12px;
-  align-content: center;
-  display: block;
+  display: inline;
   background-color: #fafad2;
   
 }
