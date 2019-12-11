@@ -27,7 +27,8 @@ background-color: #fafad2;
 }
 
 .navimj{
-  margin-right:1em;
+  display:block;
+  margin-right:12px;
   max-width: 6em;
   padding-left:1em;
   padding-right:1em;
