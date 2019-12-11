@@ -110,12 +110,18 @@ margin-left:10.5em;
 
 }
 
-.NewContent{
+.NewContentTitle{
   background-color: #ff9429;
   display:inline;
   text-align: center;
   margin-left:10.5em;
 
+
+}
+.newcontent{ 
+  display:inline;
+  text-align: center;
+  margin-left:10.5em;
 
 
 
