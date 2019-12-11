@@ -3,7 +3,7 @@ body{
   align-content: flex-end;
   
 }
-
+ /**navigation bar begins**/
 .sidenava{
   height: 100%;
   width: 10em;
@@ -26,10 +26,21 @@ background-color: #fafad2;
 
 }
 
+.navimj{
+padding: 1em;
+width: 6em;
+height: auto;
+margin: 12px;
+text-align: center;
+color: #0000ff;
+display: block;
+background-color: #fafad2;
+}
+
 .sidenava a:hover {
 color: #ff9429;
 }
-
+/**nav code end***/
 .abtpage{
 padding: 1em;
 width:8em;
