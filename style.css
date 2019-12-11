@@ -29,12 +29,10 @@ background-color: #fafad2;
 .navimj{
   position:absolute;
   float: left;
-  padding: 1em;
   width: 6em;
   height: auto;
   margin: 12px;
   text-align: left;
-  display: inline;
   background-color: #fafad2;
   
 }
