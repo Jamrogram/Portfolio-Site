@@ -74,6 +74,17 @@ display: block;
 background-color: #fafad2;
 }
 
+.filmpage{
+  padding: 1em;
+  width:8em;
+  height: 1em;
+  margin: 12px;
+  text-align: center;
+  color: #0000ff;
+  display: block;
+  background-color: #fafad2;
+  }
+
 .abtcontent{
 margin-left:10.5em;
 }
@@ -84,5 +95,5 @@ margin-left:10.5em;
 
 .imjz{
   display: block;
-  
+
 }
