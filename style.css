@@ -27,10 +27,15 @@ background-color: #fafad2;
 }
 
 .navimj{
+  height:auto; 
+  width: 6em;
   display:block;
+  text-align:center;
   margin:12px;
   padding:1em;
   border: #fafad2 4px;
+  background-color: #fafad2;
+
 }
 
 .sidenava a:hover {
