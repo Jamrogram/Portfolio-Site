@@ -27,7 +27,8 @@ background-color: #fafad2;
 }
 
 .navimj{
-  float:center;
+  position:center;
+  float: left;
   padding: 1em;
   width: 6em;
   height: auto;
