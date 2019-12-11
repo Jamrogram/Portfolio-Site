@@ -1,7 +1,7 @@
 body{
   background-color: #fafad2;
   align-content: flex-end;
-  text-align: right;
+  
 }
 
 .sidenava{
@@ -16,7 +16,7 @@ left: 0;
 
 .sidenava a{
 padding: 1em;
-width:6em;
+width: 6em;
 height: auto;
 margin: 12px;
 text-align: center;
@@ -95,5 +95,11 @@ margin-left:10.5em;
 
 .imjz{
   display: block;
+
+}
+
+.NewContent{
+  background-color: #ff9429;
+
 
 }
