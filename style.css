@@ -27,9 +27,9 @@ background-color: #fafad2;
 }
 
 .navimj{
-  width: 6em;
+  max-width: 6em;
   height: auto;
-  margin: 12px;
+  margin: 10px;
   text-align: left;
   background-color: #fafad2;
   
