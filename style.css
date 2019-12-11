@@ -27,8 +27,8 @@ background-color: #fafad2;
 }
 
 .navimj{
-  width:16px;
-  height:16px;
+  max-width:16px;
+  max-height:16px;
   display:block;
   border: #fafad2 4px;
 }
