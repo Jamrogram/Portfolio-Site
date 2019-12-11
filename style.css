@@ -27,6 +27,10 @@ background-color: #fafad2;
 }
 
 .navimj{
+  width:6em;
+  height:6em;
+  display:block;
+  border: #fafad2 4px;
 }
 
 .sidenava a:hover {
