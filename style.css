@@ -27,21 +27,21 @@ background-color: #fafad2;
 }
 
 .navimj{
-  height:auto; 
+  padding: 1em;
   width: 6em;
-  display:block;
-  text-align:center;
-  margin:12px;
-  padding:1em;
-  border: #fafad2 4px;
+  height: auto;
+  margin: 12px;
+  align-content: center;
+  display: block;
   background-color: #fafad2;
-
+  
 }
 
 .sidenava a:hover {
 color: #ff9429;
 }
 /**nav code end***/
+
 .abtpage{
 padding: 1em;
 width:8em;
