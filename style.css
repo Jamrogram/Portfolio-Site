@@ -98,12 +98,13 @@ background-color: #fafad2;
   }
 
 .abtcontent{
-margin-left:10.5em;
+margin-top:10%;
+margin-left:10.9em;
 text-align: left;
-min-width:500px;
-max-width:600px; 
-background-color: aquamarine;
-border:15px solid #ff9429
+min-width:300pxpx;
+max-width:500px; 
+padding: 5px;
+border:5px solid #ff9429;
 
 }
 
