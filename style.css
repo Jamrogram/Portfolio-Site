@@ -99,8 +99,12 @@ background-color: #fafad2;
 
 .abtcontent{
 margin-left:10.5em;
-width:65%; 
-border:15px #ff9429
+text-align: left;
+min-width:500px;
+max-width:600px; 
+background-color: aquamarine;
+border:15px solid #ff9429
+
 }
 
 .main{
