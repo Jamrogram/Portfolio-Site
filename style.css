@@ -99,10 +99,13 @@ background-color: #fafad2;
 
 .abtcontent{
 margin-left:10.5em;
+width:65%; 
+border:15px #ff9429
 }
 
 .main{
 margin-left:10.5em;
+
 }
 
 .imjz{
